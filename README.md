@@ -54,6 +54,23 @@
 
 ---
 
+## 📌 Featured Projects
+
+🔹 **Chair Classification (Flutter)**  
+AI + Mobile App for image classification  
+[🔗 View Repository](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject)
+
+🔹 **Widget UI Components (Flutter)**  
+Collection of custom reusable UI widgets  
+[🔗 View Repository](https://github.com/jena1234586/Flutter_Widget_UIComponents)
+
+🔹 **IT108 Class Activities**  
+School exercises and implementation  
+[🔗 View Repositories](https://github.com/jena1234586/Ytac_IT108)
+
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
