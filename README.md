@@ -77,22 +77,29 @@ School exercises and implementation
 
 ## 📬 Connect With Me
 
-<!-- Make sure you include Font Awesome in your project -->
+<!-- Font Awesome -->
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 />
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center; align-items: center;">
-  <a href="mailto:jenalynperezytac@gmail.com" style="text-decoration: none; color: black; font-weight: bold;">
-    <i class="fas fa-envelope" style="margin-right: 8px;"></i> jenalynperezytac@gmail.com
-  </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank" style="text-decoration: none; color: #1877F2; font-weight: bold;">
-    <i class="fab fa-facebook" style="margin-right: 8px;"></i> Jen
-  </a>
-</div>
+<ul style="list-style-type: disc; padding-left: 20px; font-size: 18px;">
+  <li style="margin-bottom: 10px;">
+    <i class="fas fa-envelope" style="margin-right: 6px; color: red;"></i>
+    Email:
+    <a href="mailto:jenalynperezytac@gmail.com" style="text-decoration: none; margin-left: 4px;">
+      jenalynperezytac@gmail.com
+    </a>
+  </li>
 
-
+  <li>
+    <i class="fab fa-facebook" style="margin-right: 6px; color: #1877F2;"></i>
+    Facebook:
+    <a href="https://www.facebook.com/yourprofile" target="_blank" style="text-decoration: none; margin-left: 4px;">
+      Jen
+    </a>
+  </li>
+</ul>
 
 ---
 
