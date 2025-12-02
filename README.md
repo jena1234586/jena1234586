@@ -9,6 +9,13 @@
 
 ---
 
+## 🚀 About Me
+🌱 Learning **Flutter**, **Firebase**, **Node.js**, and **REST APIs**  
+🧠 Passionate about building **full-stack mobile apps**  
+🎯 Goal: Become a **backend-focused full-stack developer**  
+💡 Enjoy solving problems, designing databases, and creating clean **API endpoints**
+
+---
 ## ⭐ I Enjoy Working With
 
 <div align="center">
