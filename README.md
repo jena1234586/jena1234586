@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# <strong style="color:#4A90E2;">👋 WELCOME TO MY PROFILE</strong>
+# <strong style="color:#4A90E2;"> WELCOME TO MY PROFILE 👋 </strong>
 
 ### <strong style="color:#7F8C8D;">IT Student</strong>
 
@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 About Me
-🌱 Learning **Flutter** and **Firebase***  
+🌱 A dedicated student learning **Flutter** and **Firebase***  
 🧠 Passionate about building **full-stack mobile apps**  
 🎯 Goal: Become a **backend-focused full-stack developer**  
-💡 Enjoy solving problems, designing databases, and creating clean **API endpoints**
+💡 Eager to learn new programming languages, solve problems, design efficient databases, and create clean **API endpoints**
 
 ---
 
@@ -39,9 +39,9 @@
 ### 🗄️ Databases
 
 <div align="left">
-
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />  
+  
 <img src="https://img.shields.io/badge/-MySQL-003B57?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />  
 
 </div>
 
@@ -77,20 +77,29 @@ School exercises and implementation
 
 ## 📬 Connect With Me
 
+<!-- Make sure you include Font Awesome in your project -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+/>
+
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:jenalynperezytac@gmail.com"><strong>Email: jenalynperezytac@gmail.com</strong></a>
-    </td>
-    <td align="center">
-      <a href="#"><strong>Facebook: Jen</strong></a>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:jenalynperezytac@gmail.com">
+          <i class="fas fa-envelope"></i> jenalynperezytac@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/yourprofile" target="_blank">
+          <i class="fab fa-facebook"></i> Jen
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
