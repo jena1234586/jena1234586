@@ -25,23 +25,26 @@
 
 ## 📚 Currently Learning
 
-<div align="center">
+### 💻 Languages & Frameworks
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator" /><br/>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+<img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 
 </div>
+
+### 🗄️ Databases
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />  
+<img src="https://img.shields.io/badge/-MySQL-003B57?logo=mysql&logoColor=white" />
+
+</div>
+
 
 ---
 
