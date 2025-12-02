@@ -17,6 +17,8 @@
   learning modern technologies, and building real-world academic and personal projects.
 </p>
 
+<hr>
+
 <!-- CURRENT FOCUS -->
 <h2>🎯 <strong>Current Focus</strong></h2>
 <ul>
@@ -24,6 +26,8 @@
   <li>Strengthening backend logic and database management</li>
   <li>Exploring modern frontend tools and development best practices</li>
 </ul>
+
+<hr>
 
 <!-- SKILLS -->
 <h2>📚 <strong>Core Skills & Technologies</strong></h2>
@@ -42,6 +46,8 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
 </div>
 
+<hr>
+
 <!-- LEARNING -->
 <h2>🔍 <strong>Learning & Development</strong></h2>
 <ul>
@@ -50,6 +56,8 @@
   <li>Integrating AI/ML into mobile and web apps</li>
   <li>Writing maintainable and production-ready frontend code</li>
 </ul>
+
+<hr>
 
 <!-- PROJECTS -->
 <h2>📌 <strong>Featured Projects</strong></h2>
@@ -77,6 +85,8 @@
   Fundamental programming implementations<br>
   <a href="https://github.com/jena1234586/YTAC_IT120_ACT1">🔗 View Repositories</a>
 </p>
+
+<hr>
 
 <!-- CONNECT -->
 <h2>📬 <strong>Connect With Me</strong></h2>
