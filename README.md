@@ -1,19 +1,39 @@
+<!-- HEADER -->
 <div align="center">
 
-# <strong>👋 WELCOME TO MY PROFILE</strong>
+# <strong style="color:#4A90E2;">👋 WELCOME TO MY PROFILE</strong>
 
-### <strong>IT Student</strong>
+### <strong style="color:#7F8C8D;">IT Student</strong>
 
 </div>
 
 ---
 
 ## ⭐ I Enjoy Working With
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" /><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -24,9 +44,24 @@
 ---
 
 ## 📚 Currently Learning
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum)
-![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum" /><br/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator" /><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -43,5 +78,5 @@
 
 ---
 
-## 🔥 Fun Fact
+## 🔥 Fun Fact  
 I’m passionate about building responsive, user-friendly, and accessible web experiences using HTML, CSS, and JavaScript.
