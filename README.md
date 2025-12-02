@@ -9,7 +9,7 @@
 <hr>
 
 <!-- SUMMARY -->
-<h2>🚀 <strong>Professional Summary</strong></h2>
+<h2>🚀 <strong>About Me</strong></h2>
 <p>
   Motivated IT student with hands-on experience in <strong>Flutter</strong>, <strong>Firebase</strong>,
   and building full-stack mobile applications. Passionate about backend development, API design,
@@ -76,13 +76,13 @@
 
 <p>
   🔹 <strong>IT108 Class Activities</strong><br>
-  Programming exercises and solutions<br>
+  School exercises and implementation<br>
   <a href="https://github.com/jena1234586/Ytac_IT108">🔗 View Repositories</a>
 </p>
 
 <p>
   🔹 <strong>IT120 Class Activities</strong><br>
-  Fundamental programming implementations<br>
+  School exercises and implementation<br>
   <a href="https://github.com/jena1234586/YTAC_IT120_ACT1">🔗 View Repositories</a>
 </p>
 
