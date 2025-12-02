@@ -72,9 +72,24 @@
 ---
 
 ## 📬 Connect With Me
-[LinkedIn](#)  
-[Portfolio Website](#)  
-[Medium](#)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><strong>LinkedIn</strong></a>
+    </td>
+    <td align="center">
+      <a href="#"><strong>Portfolio Website</strong></a>
+    </td>
+    <td align="center">
+      <a href="#"><strong>Medium</strong></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
