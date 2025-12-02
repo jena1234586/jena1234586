@@ -95,11 +95,12 @@ School exercises and implementation
   <li>
     <i class="fab fa-facebook" style="margin-right: 6px; color: #1877F2;"></i>
     Facebook:
-    <a href="https://www.facebook.com/yourprofile" target="_blank" style="text-decoration: none; margin-left: 4px;">
+    <a href="https://www.facebook.com/jenalyn.perezytac" target="_blank" style="text-decoration: none; margin-left: 4px;">
       Jen
     </a>
   </li>
 </ul>
+
 
 ---
 
