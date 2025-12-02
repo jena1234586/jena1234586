@@ -68,6 +68,10 @@ Collection of custom reusable UI widgets
 School exercises and implementation  
 [🔗 View Repositories](https://github.com/jena1234586/Ytac_IT108)
 
+🔹 **120 Class Activities**  
+School exercises and implementation  
+[🔗 View Repositories](https://github.com/jena1234586/YTAC_IT120_ACT1)
+
 
 ---
 
