@@ -1,8 +1,8 @@
-# Hi there 👋
+#👋 WELCOME TO MY PROFILE
 
 IT Student 
 
-## 💙 Technologies I Enjoy Working With
+## I Enjoy Working With
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff)
