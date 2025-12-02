@@ -10,37 +10,10 @@
 ---
 
 ## 🚀 About Me
-🌱 Learning **Flutter**, **Firebase**, **Node.js**, and **REST APIs**  
+🌱 Learning **Flutter** and **Firebase***  
 🧠 Passionate about building **full-stack mobile apps**  
 🎯 Goal: Become a **backend-focused full-stack developer**  
 💡 Enjoy solving problems, designing databases, and creating clean **API endpoints**
-
----
-## ⭐ I Enjoy Working With
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js" /><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" /><br/>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
