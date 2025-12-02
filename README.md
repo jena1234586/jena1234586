@@ -78,13 +78,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#"><strong>LinkedIn</strong></a>
+      <a href="mailto:jenalynperezytac@gmail.com"><strong>Email: jenalynperezytac@gmail.com</strong></a>
     </td>
     <td align="center">
-      <a href="#"><strong>Portfolio Website</strong></a>
-    </td>
-    <td align="center">
-      <a href="#"><strong>Medium</strong></a>
+      <a href="#"><strong>Facebook: Jen</strong></a>
     </td>
   </tr>
 </table>
