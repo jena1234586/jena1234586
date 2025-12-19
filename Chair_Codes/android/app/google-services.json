@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "939982492593",
+    "firebase_url": "https://ytac-chairs-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ytac-chairs",
+    "storage_bucket": "ytac-chairs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939982492593:android:e3adfc2021e6f2ac4d6390",
+        "android_client_info": {
+          "package_name": "com.chairdetector.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1-YaDvy1zNSRn0vufZ1XRN_xiSi2e3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
