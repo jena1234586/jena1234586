@@ -84,9 +84,13 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 
 ## 🖼️ App Screens (UI Preview)
 
-| Home | Scan | Analytics & History |
-|:----:|:----:|:------------------:|
-| <img src="Apps_Screenshot/home.jpg" alt="Home Page" width="200" /> | <img src="Apps_Screenshot/scan.jpg" alt="Scan Page 1" width="200" /><br/><img src="Apps_Screenshot/scan2.jpg" alt="Scan Page 2" width="200" /><br/><img src="Apps_Screenshot/scan3.jpg" alt="Scan Page 3" width="200" /> | <img src="Apps_Screenshot/analytics.jpg" alt="Analytics Page" width="200" /><br/><br/><img src="Apps_Screenshot/logs.jpg" alt="History Page" width="200" /> |
+| Home | Scan |
+|:----:|:----:|
+| <img src="Apps_Screenshot/home.jpg" alt="Home Page" width="200" /> | <img src="Apps_Screenshot/scan.jpg" alt="Scan Page 1" width="200" /><br/><img src="Apps_Screenshot/scan2.jpg" alt="Scan Page 2" width="200" /><br/><img src="Apps_Screenshot/scan3.jpg" alt="Scan Page 3" width="200" /> |
+
+| Analytics | History |
+|:---------:|:-------:|
+| <img src="Apps_Screenshot/analytics.jpg" alt="Analytics Page" width="200" /> | <img src="Apps_Screenshot/logs.jpg" alt="History Page" width="200" /> |
 
 ---
 
