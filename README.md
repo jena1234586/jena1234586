@@ -129,9 +129,6 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jena1234586&layout=compact&theme=radical&hide_border=true&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
     </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=jena1234586&theme=radical&hide_border=true&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" />
-    </td>
   </tr>
 </table>
 
