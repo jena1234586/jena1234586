@@ -1,0 +1,50 @@
+name: chair_detector_flutter
+description: "Advanced AI-powered chair detection system"
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.4
+  tflite_flutter: ^0.12.1
+  image: ^4.6.0
+  fl_chart: ^1.1.1
+  google_fonts: ^6.3.3
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.3
+  shared_preferences: ^2.3.3
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model_unquant.tflite
+    - assets/labels.txt
+    - assets/chairs/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/app_icon.png"
+    background_color: "#ffffff"
+    theme_color: "#0175C2"
+  image_path: "assets/app_icon.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/app_icon.png"
+  remove_alpha_ios: true
