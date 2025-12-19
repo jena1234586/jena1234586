@@ -131,10 +131,12 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jena1234586&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jena1234586&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=jena1234586&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+
 
 
 ---
