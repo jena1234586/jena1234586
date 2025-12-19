@@ -114,6 +114,15 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 
 ## 📊 GitHub Stats
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jena1234586&bg_color=0D1117&color=6366F1&line=9333EA&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jena1234586&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
 <div align="center">
 
 <!-- Main stats -->
