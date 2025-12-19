@@ -98,33 +98,18 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 
 ## 🪑 Chair Classes
 
-<div align="center">
-
 | Chair Type | Preview | Description |
-
 |:----------|:-------:|:------------|
-
-| **Ball Chair** | [<img src="Chair_Classes_Images/Ball_Chair.jpg" alt="Ball Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Ball_Chair.jpg) | A **spherical, modern seating option** designed for a unique and futuristic look, often used in contemporary interior design. |
-
-| **Bean Bag Chair** | [<img src="Chair_Classes_Images/Bean_Bag_Chair.jpg" alt="Bean Bag Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Bean_Bag_Chair.jpg) | A **comfortable, casual seating option** filled with soft materials, perfect for relaxed lounging and informal spaces. |
-
-| **Chaise Lounge Chair** | [<img src="Chair_Classes_Images/Chaise_Lounge_Chair.jpg" alt="Chaise Lounge Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Chaise_Lounge_Chair.jpg) | An **elongated, reclining chair** designed for relaxation, often found in living rooms or outdoor spaces. |
-
-| **High Chair** | [<img src="Chair_Classes_Images/High_Chair.jpg" alt="High Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/High_Chair.jpg) | A **tall chair designed for infants and toddlers**, featuring safety straps and a tray, allowing children to sit at table height during meals. |
-
-| **Hammock Chair** | [<img src="Chair_Classes_Images/Hammock_Chair.jpg" alt="Hammock Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Hammock_Chair.jpg) | A **suspended, swinging chair** made from fabric or rope, providing a comfortable and relaxing seating experience. |
-
-| **Office Chair** | [<img src="Chair_Classes_Images/Office_Chair.jpg" alt="Office Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Office_Chair.jpg) | An **ergonomic, adjustable chair** designed for desk work, featuring height adjustment, swivel capability, and lumbar support. |
-
-| **Plastic Chair** | [<img src="Chair_Classes_Images/Plastic_Chair.jpg" alt="Plastic Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Plastic_Chair.jpg) | A **lightweight, durable, and stackable chair** made from plastic, commonly used in outdoor settings, events, and casual dining areas. |
-
-| **Rocking Chair** | [<img src="Chair_Classes_Images/Rocking_Chair.jpg" alt="Rocking Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Rocking_Chair.jpg) | A **classic chair** with curved legs that allow it to rock back and forth, providing a soothing motion. |
-
-| **Waiting Chair** | [<img src="Chair_Classes_Images/Waiting_Chair.jpg" alt="Waiting Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Waiting_Chair.jpg) | A **simple, functional chair** commonly found in waiting areas, clinics, and public spaces, designed for temporary seating. |
-
-| **Wheelchair** | [<img src="Chair_Classes_Images/Wheelchair.jpg" alt="Wheelchair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Wheelchair.jpg) | A **mobility aid** with wheels, designed for individuals with mobility impairments, featuring manual or powered movement capabilities. |
-
-</div>
+| **Ball Chair** | <img src="Chair_Classes_Images/Ball_Chair.jpg" alt="Ball Chair" width="140" /> | A **spherical, modern seating option** designed for a unique and futuristic look, often used in contemporary interior design. |
+| **Bean Bag Chair** | <img src="Chair_Classes_Images/Bean_Bag_Chair.jpg" alt="Bean Bag Chair" width="140" /> | A **comfortable, casual seating option** filled with soft materials, perfect for relaxed lounging and informal spaces. |
+| **Chaise Lounge Chair** | <img src="Chair_Classes_Images/Chaise_Lounge_Chair.jpg" alt="Chaise Lounge Chair" width="140" /> | An **elongated, reclining chair** designed for relaxation, often found in living rooms or outdoor spaces. |
+| **High Chair** | <img src="Chair_Classes_Images/High_Chair.jpg" alt="High Chair" width="140" /> | A **tall chair designed for infants and toddlers**, featuring safety straps and a tray, allowing children to sit at table height during meals. |
+| **Hammock Chair** | <img src="Chair_Classes_Images/Hammock_Chair.jpg" alt="Hammock Chair" width="140" /> | A **suspended, swinging chair** made from fabric or rope, providing a comfortable and relaxing seating experience. |
+| **Office Chair** | <img src="Chair_Classes_Images/Office_Chair.jpg" alt="Office Chair" width="140" /> | An **ergonomic, adjustable chair** designed for desk work, featuring height adjustment, swivel capability, and lumbar support. |
+| **Plastic Chair** | <img src="Chair_Classes_Images/Plastic_Chair.jpg" alt="Plastic Chair" width="140" /> | A **lightweight, durable, and stackable chair** made from plastic, commonly used in outdoor settings, events, and casual dining areas. |
+| **Rocking Chair** | <img src="Chair_Classes_Images/Rocking_Chair.jpg" alt="Rocking Chair" width="140" /> | A **classic chair** with curved legs that allow it to rock back and forth, providing a soothing motion. |
+| **Waiting Chair** | <img src="Chair_Classes_Images/Waiting_Chair.jpg" alt="Waiting Chair" width="140" /> | A **simple, functional chair** commonly found in waiting areas, clinics, and public spaces, designed for temporary seating. |
+| **Wheelchair** | <img src="Chair_Classes_Images/Wheelchair.jpg" alt="Wheelchair" width="140" /> | A **mobility aid** with wheels, designed for individuals with mobility impairments, featuring manual or powered movement capabilities. |
 
 ## 💼 Other Featured Projects
 
