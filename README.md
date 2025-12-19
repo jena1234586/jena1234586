@@ -90,7 +90,7 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 
 | Analytics | History |
 |:---------:|:-------:|
-| <img src="Apps_Screenshot/analytics.jpg" alt="Analytics Page" width="200" /> | <img src="Apps_Screenshot/logs.jpg" alt="History Page" width="200" /> |
+| <img src="Apps_Screenshot/analytics.jpg" alt="Analytics Page 1" width="200" /> <img src="Apps_Screenshot/analytics2.jpg" alt="Analytics Page 2" width="200" /> | <img src="Apps_Screenshot/logs.jpg" alt="History Page 1" width="200" /> <img src="Apps_Screenshot/logs2.jpg" alt="History Page 2" width="200" /> |
 
 ---
 
