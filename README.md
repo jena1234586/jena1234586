@@ -5,7 +5,6 @@
 ---
 
 ### 👩‍💻 Jenalyn Perez Ytac  
-
 **IT Student · Flutter & Firebase Developer · Aspiring Full‑Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-jena1234586-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jena1234586)
@@ -17,15 +16,11 @@
 ## 🚀 About Me
 
 I'm **Jenalyn**, an **IT student** who loves learning by building real projects.  
-
 Motivated IT student with hands-on experience in **Flutter**, **Firebase**, and building full-stack mobile applications. Passionate about backend development, API design, and crafting clean, maintainable systems.
 
 - 🌱 Currently improving my **Flutter UI**, **backend logic**, and **database management** skills
-
 - 🧩 I like breaking big problems into small, clear steps
-
 - 🎯 Long‑term goal: become a **full‑stack developer** who can build and deploy complete apps
-
 - 🎨 I love designing clean, modern, and accessible user interfaces that feel great on any device
 
 ---
@@ -33,31 +28,21 @@ Motivated IT student with hands-on experience in **Flutter**, **Firebase**, and 
 ## 🧰 Skills and Technologies
 
 ### Programming Languages
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Mobile Development
-
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Backend & Database
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 ### Tools & Platforms
-
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 ---
@@ -67,15 +52,10 @@ Motivated IT student with hands-on experience in **Flutter**, **Firebase**, and 
 My featured mobile project is a **Chair Classification** app, built with **Flutter** and a **TensorFlow Lite model**.
 
 - **Purpose**: Help users identify different types of chairs quickly using their phone.
-
 - **Core Features**:
-
   - 📷 **Scan & Identify** chair types from photos
-
   - 🧠 **On‑device ML model** using `.tflite` and `labels.txt`
-
   - 📊 **History & Analytics** to review previous scans
-
   - 🎨 **Modern, minimal UI** focused on clarity and ease of use
 
 ---
@@ -85,26 +65,11 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 | Home | Scan | Analytics | History |
-
 |:----:|:----:|:---------:|:-------:|
-
 | [<img src="https://raw.githubusercontent.com/jena1234586/Ytac_Chair_Classification_FinalProject/main/Application_Screenshots/Home%20Page.jpg" alt="Home Page" width="230" />](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject/blob/main/Application_Screenshots/Home%20Page.jpg) | [<img src="https://raw.githubusercontent.com/jena1234586/Ytac_Chair_Classification_FinalProject/main/Application_Screenshots/Scan%20Page.jpg" alt="Scan Page" width="230" />](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject/blob/main/Application_Screenshots/Scan%20Page.jpg) | [<img src="https://raw.githubusercontent.com/jena1234586/Ytac_Chair_Classification_FinalProject/main/Application_Screenshots/Analytics%20Page.jpg" alt="Analytics Page" width="230" />](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject/blob/main/Application_Screenshots/Analytics%20Page.jpg) | [<img src="https://raw.githubusercontent.com/jena1234586/Ytac_Chair_Classification_FinalProject/main/Application_Screenshots/History%20Page.jpg" alt="History Page" width="230" />](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject/blob/main/Application_Screenshots/History%20Page.jpg) |
 
 </div>
 
----
-
-## 📷 Scan Page UI Screenshots
-
-<div align="center">
-
-| Scan View 1 | Scan View 2 | Scan View 3 |
-
-|:-----------:|:-----------:|:-----------:|
-
-| [<img src="https://raw.githubusercontent.com/jena1234586/jena1234586/main/Apps_Screenshot/scan.jpg" alt="Scan View 1" width="230" />](https://github.com/jena1234586/jena1234586/blob/main/Apps_Screenshot/scan.jpg) | [<img src="https://raw.githubusercontent.com/jena1234586/jena1234586/main/Apps_Screenshot/scan2.jpg" alt="Scan View 2" width="230" />](https://github.com/jena1234586/jena1234586/blob/main/Apps_Screenshot/scan2.jpg) | [<img src="https://raw.githubusercontent.com/jena1234586/jena1234586/main/Apps_Screenshot/scan3.jpg" alt="Scan View 3" width="230" />](https://github.com/jena1234586/jena1234586/blob/main/Apps_Screenshot/scan3.jpg) |
-
-</div>
 
 ---
 
@@ -113,15 +78,10 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 | Chair Type | Preview | Description |
-
 |:----------|:-------:|:------------|
-
 | **Bean Bag Chair** | [<img src="Chair_Classes_Images/Bean_Bag_Chair.jpg" alt="Bean Bag Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Bean_Bag_Chair.jpg) | A **comfortable, casual seating option** filled with soft materials, perfect for relaxed lounging and informal spaces. |
-
 | **Chaise Lounge Chair** | [<img src="Chair_Classes_Images/Chaise_Lounge_Chair.jpg" alt="Chaise Lounge Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Chaise_Lounge_Chair.jpg) | An **elongated, reclining chair** designed for relaxation, often found in living rooms or outdoor spaces. |
-
 | **Office Chair** | [<img src="Chair_Classes_Images/Office_Chair.jpg" alt="Office Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Office_Chair.jpg) | An **ergonomic, adjustable chair** designed for desk work, featuring height adjustment, swivel capability, and lumbar support. |
-
 | **Rocking Chair** | [<img src="Chair_Classes_Images/Rocking_Chair.jpg" alt="Rocking Chair" width="140" />](https://github.com/jena1234586/jena1234586/blob/main/Chair_Classes_Images/Rocking_Chair.jpg) | A **classic chair** with curved legs that allow it to rock back and forth, providing a soothing motion. |
 
 </div>
@@ -131,13 +91,9 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 | Project | Description | Tech Stack | Repository |
-
 |:--------|:------------|:-----------|:-----------|
-
 | **Flutter Widget UI Components** | Collection of reusable, customizable UI widgets | `Flutter` `Dart` | [View Repo](https://github.com/jena1234586/Flutter_Widget_UIComponents) |
-
 | **IT108 Class Activities** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/jena1234586/Ytac_IT108) |
-
 | **IT120 Class Activities** | Programming activities and exercises for IT120 | `Python` | [View Repo](https://github.com/jena1234586/YTAC_IT120_ACT1) |
 
 </div>
@@ -149,11 +105,9 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 <!-- Main stats -->
-
 <img src="https://github-readme-stats.vercel.app/api?username=jena1234586&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Jenalyn's GitHub Stats" />
 
 <!-- Top languages -->
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jena1234586&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 </div>
@@ -163,13 +117,9 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 ## 🎯 Learning Roadmap
 
 - 📱 Build more **Flutter** apps with better navigation and state management  
-
 - ☁️ Connect apps to **Firebase** (auth & database)  
-
 - 🔧 Strengthening **backend logic** and database management  
-
 - 🤖 Exploring **AI/ML integration** into mobile and web apps  
-
 - ✍️ Writing **maintainable and production-ready** frontend code  
 
 ---
@@ -177,13 +127,9 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 ## 🎮 Hobbies & Interests
 
 - 💻 **Coding** - Building projects and solving problems
-
 - 🎮 **Gaming** - Enjoying video games in my free time
-
 - 🎵 **Music** - Listening to music while coding
-
 - 📚 **Reading** - Learning from tech blogs and documentation
-
 - 📺 **Watching Videos** - Tech tutorials and entertainment
 
 ---
@@ -193,15 +139,11 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 <!-- Font Awesome -->
-
 <link rel="stylesheet"
-
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenalynperezytac@gmail.com)
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jenalyn.perezytac)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jena1234586)
 
 </div>
@@ -211,9 +153,7 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <div align="center">
 
 ✨ **Thanks for visiting my profile!**  
-
 Feel free to explore my repositories and follow my journey:  
-
 👉 [github.com/jena1234586](https://github.com/jena1234586)
 
 </div>
