@@ -1,0 +1,10 @@
+0 Ball chair
+1 Chiase Lounge chair
+2 Bean Bag chair
+3 Office chair
+4 Rocking chair
+5 Waiting chair
+6 Wheelchair
+7 Hammock chair
+8 Plastic chair
+9 High chair
