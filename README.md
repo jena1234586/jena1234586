@@ -111,7 +111,6 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 | **Ytac_Mabras_FinalProject** | Academic final project | `Web Development` `Database` | [View Repo](https://github.com/jena1234586/Ytac_Mabras_FinalProject) |
 
 ---
-
 ## 📊 GitHub Stats
 
 <!-- Contribution Activity Graph -->
@@ -125,18 +124,16 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jena1234586&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jena1234586&show_icons=true&theme=radical&hide_border=true&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jena1234586&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jena1234586&layout=compact&theme=radical&hide_border=true&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=jena1234586&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=jena1234586&theme=radical&hide_border=true&ring=6366F1&fire=9333EA&currStreakLabel=FFFFFF" />
     </td>
   </tr>
 </table>
-
-
 
 
 ---
