@@ -103,12 +103,12 @@ My featured mobile project is a **Chair Classification** app, built with **Flutt
 |:--------|:------------|:-----------|:-----------|
 | **IT108 Class Activities** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/jena1234586/Ytac_IT108) |
 | **IT120 Class Activities** | Programming activities and exercises for IT120 | `Python` | [View Repo](https://github.com/jena1234586/YTAC_IT120_ACT1) |
+| **Flutter_Widget_UIComponents** | Flutter widget and UI component samples | `Flutter` `Dart` | [View Repo](https://github.com/jena1234586/Flutter_Widget_UIComponents) |
+| **YTAC-MongoDB-Activity** | MongoDB activity and exercises | `MongoDB` `JavaScript` | [View Repo](https://github.com/jena1234586/YTAC-MongoDB-Activity) |
+| **mysql-trigger-implementation-ytac** | MySQL trigger implementation activities | `MySQL` `SQL` | [View Repo](https://github.com/jena1234586/mysql-trigger-implementation-ytac) |
 | **YTAC_7OLAP_Systems_Diagram** | System architecture and OLAP systems diagram | `System Design` `OLAP` `UML / Diagrams` | [View Repo](https://github.com/jena1234586/YTAC_7OLAP_Systems_Diagram) |
 | **Ytac_Chair_Classification_FinalProject** | Final project for chair classification using image processing | `Python` `Machine Learning` `Image Processing` | [View Repo](https://github.com/jena1234586/Ytac_Chair_Classification_FinalProject) |
-| **YTAC-MongoDB-Activity** | MongoDB activity and exercises | `MongoDB` `JavaScript` | [View Repo](https://github.com/jena1234586/YTAC-MongoDB-Activity) |
 | **Ytac_Mabras_FinalProject** | Academic final project | `Web Development` `Database` | [View Repo](https://github.com/jena1234586/Ytac_Mabras_FinalProject) |
-| **mysql-trigger-implementation-ytac** | MySQL trigger implementation activities | `MySQL` `SQL` | [View Repo](https://github.com/jena1234586/mysql-trigger-implementation-ytac) |
-| **Flutter_Widget_UIComponents** | Flutter widget and UI component samples | `Flutter` `Dart` | [View Repo](https://github.com/jena1234586/Flutter_Widget_UIComponents) |
 
 ---
 
